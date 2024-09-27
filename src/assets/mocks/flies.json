@@ -14,7 +14,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/trico.jpeg",
+      "imageURL": "/assets/img/trico.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -33,7 +33,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/baron.jpeg",
+      "imageURL": "/assets/img/baron.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -52,7 +52,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -76,7 +76,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -100,7 +100,7 @@
       "location": [
         "Cursos medios y bajos de los rios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -122,7 +122,7 @@
       "location": [
         "Cursos altos y medios de los rios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -146,7 +146,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -170,7 +170,7 @@
       "location": [
         "Cursos altos y medios de los rios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -194,7 +194,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -216,7 +216,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -235,7 +235,7 @@
       "location": [
         "medios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -257,7 +257,7 @@
       "location": [
         "Cursos medios y bajos de grandes rios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]
@@ -278,7 +278,7 @@
       "location": [
         "Cursos medios y bajos de grandes rios"
       ],
-      "imageURL": "./assets/img/oxido.jpeg",
+      "imageURL": "/assets/img/oxido.jpeg",
       "hashtag": [
         "Mosca"
       ]

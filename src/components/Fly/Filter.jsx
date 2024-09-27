@@ -2,7 +2,7 @@ import { useContext, useRef } from "react";
 
 import FliesContext from "../../context/FliesContext";
 import { MdOutlineCleaningServices } from "react-icons/md";
-import getFlies from "../../services/getFlies";
+import { getFlies } from "../../services/getFlies";
 export default function Filter() {
   const { flies, setFlies } = useContext(FliesContext);
 

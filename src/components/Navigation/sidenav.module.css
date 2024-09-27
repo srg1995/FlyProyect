@@ -9,7 +9,7 @@
 .sidenavClosed {
   composes: sidenav;
   transition: width 0.3s ease-in-out;
-  width: 60px;
+  width: 80px;
 }
 
 .sideitem {
@@ -24,7 +24,6 @@
   padding-left: 16px;
 }
 
-
 .linkTextClosed {
   composes: linkText;
   visibility: hidden;
@@ -33,6 +32,7 @@
 .sideitem:hover {
   background-color: #244f7d1c;
 }
+
 .menuBtn {
   align-self: center;
   align-self: flex-start;
@@ -41,8 +41,6 @@
   cursor: pointer;
   padding-left: 20px;
 }
-
-
 
 .hamburger {
   cursor: pointer;

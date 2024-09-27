@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import getFlies from '../services/getFlies';
+import {getFlies} from '../services/getFlies';
 const Context = React.createContext({})
 
 
